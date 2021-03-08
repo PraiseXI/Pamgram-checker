@@ -52,7 +52,6 @@ namespace pangram_checker
                 }
             }
             Console.ReadLine();
-
         }
     }
 }
